@@ -1,2 +1,2 @@
-# CBlanchetteGIS.github.io
+# Chelsea Blanchette's GIS Portfolio
 GIS Portfolio
