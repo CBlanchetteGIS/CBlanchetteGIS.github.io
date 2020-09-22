@@ -5,4 +5,4 @@ This map depicts the most affordable downhill ski areas in Vermont. This map was
 ![Ski Vermont](GIS1Final-1.jpg)
 ## Dog Friendly Winter Hiking Trails Frisco, CO
 This map depicts dog friendly trails accessible in the winter months in the Frisco Adventure Park trail network. These trails are limited due to the Adventure Park's cross country skiing paid access only. 
-![Winter Trails for Dog Walking]{GPSFINAL.jpg)
+![Winter Trails for Dog Walking](GPSFINAL.jpg)
